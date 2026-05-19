@@ -7,9 +7,8 @@ S7_Version_Estudiante_Project_ConnectaTel.ipynb → Notebook principal con limpi
 ▶ Cómo abrir el notebook en Google Colab
 Haz clic en el siguiente botón:
 
-[`S7_Version_Estudiante_Project_ConnectaTel.ipynb`](https://github.com/marilynbon03-cmyp/Telecom-analysis/blob/main/S7_Version_Estudiante_Project_ConnectaTel.ipynb
-
-[Open In Colab]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/marilynbon03-cmyp/Telecom-analysis/blob/main/S7_Version_Estudiante_Project_ConnectaTel.ipynb)
 
 O:
 
